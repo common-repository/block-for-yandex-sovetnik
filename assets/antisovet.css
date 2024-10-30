@@ -1,0 +1,18 @@
+.wp-heading-inline img {
+	height: 50px;
+}
+.wrap-as sup {
+	color: red;
+}
+.wrap-as .spinner {
+	float: none;
+}
+.notice-success .dashicons-yes-alt {
+	color: #46b450;
+}
+.dashicons-warning {
+	color: #FFB900;
+}
+#adminmenu #toplevel_page_antisovet img {
+	opacity: 1;
+}
